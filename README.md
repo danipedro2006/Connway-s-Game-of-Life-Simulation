@@ -19,7 +19,7 @@ Conway's Game of Life is a [cellular automaton](https://en.wikipedia.org/wiki/Ce
 * Basics GUI
 
 ## Status
-Project is under development. 
+Project is completed and no longer maintained. 
 
 ## Contact
 Created by @Danisoft Arad 2021 (https://danipedro2006.github.io/) - feel free to contact me!
